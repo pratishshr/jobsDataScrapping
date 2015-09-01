@@ -64,9 +64,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => 'damcare',
+	'hostname' => 'https://jobkhoj-vanroshr.rhcloud.com/',
+	'username' => 'adminS2tp2aw',
+	'password' => 'fa7rfk9Qm3zW',
 	'database' => 'jobkhoj',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
